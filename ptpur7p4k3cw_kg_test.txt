@@ -1,1 +1,1 @@
-{"ad": "111","query": "TH,HK"}
+{"ad": "222","query": "TH,HK"}
