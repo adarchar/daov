@@ -1,5 +1,5 @@
 {
-  "ad": "ptpur7p4k3cw",
+  "ad": "ptpur7p4k3cw-o",
   "query": "TH,HK",
   "tokens": {
     "adt": "ptpur7p4k3cw",
