@@ -1,5 +1,5 @@
 {
-  "ad": "bexyrso5co3k_",
+  "ad": "bexyrso5co3k",
   "tokens": {
     "adt": "bexyrso5co3k",
     "rgs": "l6aeg9",

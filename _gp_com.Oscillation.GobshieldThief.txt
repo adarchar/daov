@@ -1,5 +1,5 @@
 {
-  "ad": "77jyddhch0g0_",
+  "ad": "77jyddhch0g0",
   "tokens": {
     "adt": "77jyddhch0g0",
     "rgs": "5m0glk",
